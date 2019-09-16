@@ -1,2 +1,3 @@
 # pylogix-tester
-A compiled application to test connection to an AB PLC.
+
+Requirements python installed. This script will ensure you have connection to the plc, and can read one controller tag and program tag. Follow the prompts.
